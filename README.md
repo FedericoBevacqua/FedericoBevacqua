@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Federico, Web Development Technician received at the National University of La Matanza (UNLAM).
+
+https://www.linkedin.com/in/fedebeva/
+
 <!--
 **FedericoBevacqua/FedericoBevacqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

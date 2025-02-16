@@ -6,6 +6,6 @@ I'm Federico, Web Development Technician received at the National University of 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/FedericoBevacqua)
+[![FedericoBevacqua github stats](https://github-readme-stats.vercel.app/api?username=FedericoBevacqua&show_icons=true&include_all_commits=true&hide=contribs&show=prs_merged,prs_merged_percentage)](https://github.com/FedericoBevacqua)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/FedericoBevacqua)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoBevacqua&layout=compact)](https://github.com/FedericoBevacqua)
